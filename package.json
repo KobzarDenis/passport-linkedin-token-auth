@@ -1,0 +1,31 @@
+{
+  "name": "passport-linkedin-token-auth",
+  "version": "1.0.0",
+  "description": "This is a simple authentication on LinkedIn by access token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KobzarDenis/passport-linkedin-token-auth.git"
+  },
+  "keywords": [
+    "passport",
+    "linkedin",
+    "accesstoken",
+    "token",
+    "bearer",
+    "authentication",
+    "identity"
+  ],
+  "author": {
+    "name": "Denys Kobzar",
+    "email": "famous.beatboxer@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KobzarDenis/passport-linkedin-token-auth/issues"
+  },
+  "homepage": "https://github.com/KobzarDenis/passport-linkedin-token-auth#readme"
+}
