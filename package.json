@@ -1,6 +1,6 @@
 {
   "name": "passport-linkedin-token-auth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a simple authentication on LinkedIn by access token",
   "main": "index.js",
   "repository": {
@@ -14,7 +14,8 @@
     "token",
     "bearer",
     "authentication",
-    "identity"
+    "identity",
+    "authorization"
   ],
   "author": {
     "name": "Denys Kobzar",
